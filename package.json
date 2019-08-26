@@ -1,0 +1,21 @@
+{
+  "name": "rayx-skeleton",
+  "version": "0.0.1",
+  "description": "骨架屏生成工具",
+  "main": "./index.js",
+  "scripts": {},
+  "author": "wangxuezhi",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0",
+    "puppeteer": "^1.13.0",
+    "single-line-log": "^1.1.2",
+    "chalk": "^2.4.1"
+  },
+  "homepage": "https://github.com/WangXueZhi/rayx-skeleton",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:WangXueZhi/rayx-skeleton.git"
+  }
+}
