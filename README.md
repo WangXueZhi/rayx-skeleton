@@ -30,7 +30,7 @@ const options = {
     // 容器的id，骨架生成将会从该容器开始遍历，默认body
     idSelector: "",
     // demo模式页面地址
-    demoUrl: "https://h5.unionvip.com/about.unionvip.html#/Cards",
+    demoUrl: "",
     // server模式配置
     serverMode: {
         server: "http://0.0.0.0:8080",

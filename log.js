@@ -61,6 +61,4 @@ log.progressBar = function (description, bar_length) {
     };
 }
 
-
-
 module.exports = log;
